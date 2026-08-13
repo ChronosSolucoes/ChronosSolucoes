@@ -19,9 +19,7 @@ Tecnologia que acompanha o seu tempo.".
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/chronos-solucoes-ti/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/_chronos.solucoes_/)
 
-</br>
-</br>
-
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
