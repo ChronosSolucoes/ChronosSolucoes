@@ -13,6 +13,14 @@ Chronos Soluções em T.I.
 Tecnologia que acompanha o seu tempo.".
 
 ---
+<h3 align="left">Contate-me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:chronossolucoesti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/chronos-solucoes-ti/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/_chronos.solucoes_/)
+
+</br>
+</br>
 
 ### 🤖 Linguagens e Tecnologias
 
